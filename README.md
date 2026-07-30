@@ -26,8 +26,8 @@ Neste segundo módulo, o foco deixa de ser apenas a estruturação do texto (HTM
 
 ## 📚 O que será aprendido?
 
-- [ ] **Psicologia e Padrão de Cores:** Representação de cores em CSS utilizando nomes, códigos Hexadecimais, RGB e HSL, além da aplicação de opacidade e transparência.
-- [ ] **Gradientes (Degradê):** Criação e aplicação de gradientes lineares e radiais como fundo de tela.
+- [x] **Psicologia e Padrão de Cores:** Representação de cores em CSS utilizando nomes, códigos Hexadecimais, RGB e HSL, além da aplicação de opacidade e transparência.
+- [x] **Gradientes (Degradê):** Criação e aplicação de gradientes lineares e radiais como fundo de tela.
 - [ ] **Tipografia e Fontes:** Alteração de famílias de fontes (`font-family`), tamanhos, pesos (`font-weight`) e estilos.
 - [ ] **Fontes Externas:** Importação e utilização de tipografias profissionais através do **Google Fonts** e de arquivos externos em formato `.woff` e `.ttf`.
 - [ ] **Seletores Personalizados:** Diferenciação e aplicação correta de `id` (identificadores únicos) e `class` (classes reaproveitáveis) no HTML e CSS.
