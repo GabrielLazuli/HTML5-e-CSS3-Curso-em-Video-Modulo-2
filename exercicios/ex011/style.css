@@ -1,0 +1,26 @@
+
+
+h1{
+    text-align: center;
+}
+
+lu{
+    text-align: center;
+    
+}
+
+a{
+    font-size:x-large;
+    text-decoration: none;
+    color: rgb(7, 7, 7);
+    background-color: aqua;
+    display: block;
+}
+
+a::after{
+    content: '<=';
+}
+
+a:hover{
+    background-color: brown;
+}
