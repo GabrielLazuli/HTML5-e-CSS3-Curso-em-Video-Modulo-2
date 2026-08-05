@@ -31,7 +31,7 @@ Neste segundo módulo, o foco deixa de ser apenas a estruturação do texto (HTM
 - [x] **Tipografia e Fontes:** Alteração de famílias de fontes (`font-family`), tamanhos, pesos (`font-weight`) e estilos.
 - [x] **Fontes Externas:** Importação e utilização de tipografias profissionais através do **Google Fonts** e de arquivos externos em formato `.woff` e `.ttf`.
 - [x] **Seletores Personalizados:** Diferenciação e aplicação correta de `id` (identificadores únicos) e `class` (classes reaproveitáveis) no HTML e CSS.
-- [ ] **Pseudo-classes:** Criação de elementos interativos e efeitos visuais usando `:hover`, `:visited`, `:active`, entre outros.
+- [x] **Pseudo-classes:** Criação de elementos interativos e efeitos visuais usando `:hover`, `:visited`, `:active`, entre outros.
 - [ ] **O Modelo de Caixas (Box Model):** O conceito mais importante do CSS. Compreensão profunda da anatomia dos elementos:
   - `content` (Conteúdo)
   - `padding` (Preenchimento interno)

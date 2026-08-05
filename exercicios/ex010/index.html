@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo Classes</title>
+</head>
+<style>
+
+    p#mouse{
+        display: none;
+    }
+
+    div{
+        background-color: aqua;
+    }
+
+   p:hover{
+        background-color: aqua;
+   }
+
+   div:hover>p#mouse{
+        display: flex;
+   }
+
+   p{
+        text-align: center;
+        width: 200;
+        display: block;
+   }
+
+</style>
+
+<body>
+    <h1 style="text-align: center;">Pseudo Classes</h1>
+    <div>
+        <p>Sobrevoe aqui</p>
+        <p id="mouse"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Error adipisci provident optio perferendis unde quos fugiat dolorum, dicta iste culpa rem id itaque consequatur dignissimos. Architecto ratione ad repudiandae suscipit.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga ullam provident quidem deserunt repellendus. Officia necessitatibus impedit ut, laborum reiciendis adipisci iure id ducimus modi qui sed sint placeat ratione!</p>
+    </div>
+
+</body>
+</html>
